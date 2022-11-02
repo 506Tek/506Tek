@@ -2,4 +2,4 @@
          alt="Waving hand animated gif"
          height="90"
          width="90" /> Hi! :wave:</h1>
-<p align='left'>We have 506TEK</p>
+<p align='left'>We are 506TEK</p>
